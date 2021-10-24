@@ -27,15 +27,11 @@ img {
     font-size: 25px;
 }
 
-#socials > li > a :first-child{
+#socials > li > a{
     color:black;
 }
 
-#socials > li > a :nth-child(2){
-    color:#1DA1F2;
-}
-
 #socials > li > a:hover {
-    color: black;
+    color: royalblue;
     font-size: 28px;
 }
