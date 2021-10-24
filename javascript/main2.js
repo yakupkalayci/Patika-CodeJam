@@ -8,7 +8,7 @@ const projectsDOM = document.querySelector(".projects");
 
 const user1 = {
     name: "Yakup Kalaycı",
-    profilePhoto: "profile.jpg",
+    profilePhoto: "./images/profile.jpg",
     description: "Merhaba, ben Yakup. Yıldız Teknik Üniversitesi Bilgisayar ve Öğretim Teknolojileri Bölümü 3.sınıf öğrencisiyim. 21 yaşındayım ve İstanbulda yaşıyourm.Yazılımla ilk defa 2 sene önce tanıştım ve o günden beri kendimi geliştirmek için çabalıyorum. <br>Ancak asıl gelişimi Patika ile tanıştıktan sonra gerçekleştirdiğimi düşünüyorum.<br>Umarım bu şekilde devam eder.<br>Frontend web development patikasında ilerliyorum ve şuanda React bölümündeyim. Sürekli yeni şeyler öğrenmeyi seviyorum.<br>Şimdiye kadar yaptığım bazı projeleri aşağıda inceleyebilirsiniz..",
     projects: [
         {
