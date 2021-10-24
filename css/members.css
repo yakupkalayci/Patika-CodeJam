@@ -1,0 +1,41 @@
+h2 {
+    margin-bottom: 3rem;
+}
+.member {
+    display: flex;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.member h3 {
+    margin-bottom: 1rem;
+}
+
+#socials {
+    display: flex;
+    margin-left: 60px;
+    float: left;
+    list-style: none;
+}
+
+#socials > li {
+    padding-right: 20px;
+    font-size: 25px;
+}
+
+#socials > li > a :first-child{
+    color:black;
+}
+
+#socials > li > a :nth-child(2){
+    color:#1DA1F2;
+}
+
+#socials > li > a:hover {
+    color: black;
+    font-size: 28px;
+}

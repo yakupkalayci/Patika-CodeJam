@@ -1,0 +1,50 @@
+img#about-img {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#logo {
+    margin-left: 200px;
+}
+
+p {
+    letter-spacing: 1px;
+    line-height: 23px;
+}
+
+.container {
+    padding: 15px;
+}
+
+h4 {
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+
+button {
+    padding: 8px 12px;
+    border-radius: 6px;
+    background-color: royalblue;
+    color: white;
+}
+
+button:hover {
+    background-color: white;
+    color: royalblue;
+}
+
+textarea {
+    resize: none;
+    padding: 0.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul#question-area {
+    list-style-type: none;
+    padding: 1rem;
+}
+
+ul#question-area > li {
+    margin-bottom: 1rem;
+}
